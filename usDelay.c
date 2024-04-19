@@ -8,7 +8,8 @@
 
 #include "stm32f767xx.h" //change to your MCU
 
-#define TIM2_PSC 16 //set such that timer runs at 1Mhz
+//set such that timer runs at 1Mhz
+#define TIM2_PSC 16 
 
 void usDelayInit(void) {
 
