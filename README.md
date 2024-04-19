@@ -16,7 +16,8 @@ int main(void) {
 
 	while (1) {
 
-    usDelay(100);
+          usDelay(100);
+
 		//...
 	}
 }
